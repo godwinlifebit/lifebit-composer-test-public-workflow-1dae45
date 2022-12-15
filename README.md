@@ -24,6 +24,14 @@ The present workflow is composed by the following unique components (Note that s
 **Parameters**: 0\
 **Authors**: 
 
+### lifebit_skesa
+
+**Description**: Strategic k-mer extension for scrupulous assemblies using Skesa.\
+**Inputs**: 1\
+**Outputs**: 1\
+**Parameters**: 0\
+**Authors**: 
+
 ## Inputs
 
 - `--downsample_1.fastq`: FastQ files, which can be compressed or uncompressed
