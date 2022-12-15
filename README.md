@@ -40,3 +40,8 @@ The present workflow is composed by the following unique components (Note that s
     - Type: number
     - Default: `50` 
 
+- `--downsample_2.ratio`: Provide the desired estimated coverage as a ratio (e.g.: 50X)
+    - **Component**: downsample_2 
+    - Type: number
+    - Default: `50` 
+
